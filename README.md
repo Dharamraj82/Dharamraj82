@@ -69,12 +69,12 @@ funFact: "I debug with determination and coffee ☕"
 ## 📊 GitHub Stats
 
 <div align="center">
+   
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharamraj82&show_icons=true&bg_color=0D1117&text_color=FFFFFF&icon_color=58A6FF&title_color=58A6FF&border_color=30363D)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharamraj82&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Dharamraj82&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dharamraj82&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharamraj82&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharamraj82&layout=compact&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF&border_color=30363D)
 
 </div>
 
