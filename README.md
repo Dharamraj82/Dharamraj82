@@ -1,134 +1,96 @@
 <div align="center">
 
-# 👋 Hi, I'm Dharamraj Prasad Yadav
+# Dharamraj Prasad Yadav
 
-### Full-Stack Developer | MERN Stack Enthusiast | Problem Solver
+**Software Engineer | Full-Stack Architecture | System Design**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharamraj-prasad-yadav/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dharamraj82)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://dharamraj-pd-yadav.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/dharamraj-prasad-yadav/)
+[![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Dharamraj82)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://dharamraj-pd-yadav.vercel.app/)
 
 </div>
 
 ---
 
-## 🎓 Education
+## Overview
 
-🔹 **MCA (Master of Computer Applications)** | *Pursuing*  
-   Galgotias University, Greater Noida
-
-🔹 **BCA (Bachelor of Computer Applications)** | *Completed 2025*  
-   MCC Hazaribagh, Vinoba Bhave University, Jharkhand
+A highly motivated software engineer specializing in scalable full-stack web architecture and high-end UI/UX implementation. Currently pursuing an MCA at Galgotias University, combining advanced academic foundations in Data Structures and Algorithms with production-level engineering experience. Focused on building performant, user-centric applications using modern frameworks, robust database design, and clean code principles.
 
 ---
 
-## 🚀 About Me
+## Technical Arsenal
 
-const dharamraj = {
-location: "Jharkhand, India",
-currentFocus: ["Full-Stack Development", "DSA", "System Design"],
-learning: ["Advanced Java", "Microservices", "Cloud Computing"],
-lookingFor: "Software Development Internships & Opportunities",
-funFact: "I debug with determination and coffee ☕"
-};
+### Architecture & Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-1A1A1A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-1A1A1A?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![PHP](https://img.shields.io/badge/PHP-1A1A1A?style=for-the-badge&logo=php&logoColor=777BB4)
+![C++](https://img.shields.io/badge/C++-1A1A1A?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 
-- 💻 Passionate about building **scalable** and **user-centric** web applications
-- 🌱 Currently mastering **Data Structures & Algorithms** and **Java**
-- 🎯 Goal: Contribute to impactful tech products as a **Full-Stack Engineer**
-- 🔭 Working on exciting MERN stack projects that solve real-world problems
+### Frontend Engineering
+![Next.js](https://img.shields.io/badge/Next.js-1A1A1A?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-1A1A1A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![HTML5](https://img.shields.io/badge/HTML5-1A1A1A?style=for-the-badge&logo=html5&logoColor=E34F26)
 
----
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-1A1A1A?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1A1A1A?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![SQL](https://img.shields.io/badge/SQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-## 🛠️ Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+### Infrastructure & Tools
+![Git](https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-1A1A1A?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Figma](https://img.shields.io/badge/Figma-1A1A1A?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 ---
 
-## 📊 GitHub Stats
+## Featured Engineering
+
+**[DOCBOOK - Healthcare Appointment System](https://github.com/Dharamraj82/docbook)**
+> Engineered a full-stack application for seamless appointment scheduling and management.
+> * Implemented secure JWT-based authentication and role-based access control.
+> * Designed a highly responsive, premium UI utilizing React and Tailwind CSS.
+> * Architected the database schema in MongoDB for optimal query performance and scale.
+
+**[Project Management Console](https://github.com/Dharamraj82/project-name)**
+> Developed a sophisticated task tracking and collaboration platform for team environments.
+> * Integrated WebSockets for low-latency, real-time state synchronization.
+> * Structured a modular, scalable RESTful API architecture.
+> * Delivered a clean, modern interface focused on high-end UI/UX principles.
+
+---
+
+## Analytics & Metrics
 
 <div align="center">
    
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharamraj82&show_icons=true&bg_color=0D1117&text_color=FFFFFF&icon_color=58A6FF&title_color=58A6FF&border_color=30363D)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharamraj82&show_icons=true&bg_color=1A1A1A&text_color=FFFFFF&icon_color=D4AF37&title_color=D4AF37&border_color=2A2A2A)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Dharamraj82&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharamraj82&layout=compact&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF&border_color=30363D)
-
-</div>
-
-
----
-
-## 🏆 Top Projects
-
-### 🩺 [DOCBOOK - Doctor Appointment System](https://github.com/Dharamraj82/docbook)
-> Full-stack MERN application for seamless doctor appointment booking
-- 🔐 JWT Authentication & Authorization
-- 📱 Responsive UI with React & Tailwind CSS
-- 🗄️ MongoDB for efficient data management
-
-### 📝 [Project Management System](https://github.com/Dharamraj82/project-name)
-> Task tracking and collaboration platform
-- ⚡ Real-time updates with WebSockets
-- 🎨 Modern UI/UX design
-- 🔄 RESTful API architecture
-
----
-
-## 📈 Contribution Graph
-
-[![Dharamraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharamraj82&theme=tokyo-night&hide_border=true)](https://github.com/Dharamraj82)
-
----
-
-## 🎯 Current Goals
-
-- [ ] Master Advanced DSA concepts
-- [ ] Contribute to Open Source projects
-- [ ] Build 5+ production-ready MERN applications
-- [ ] Learn DevOps & Cloud technologies (AWS/Docker)
-- [ ] Secure a Full-Stack Developer role
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharamrajyadav82@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharamraj-prasad-yadav/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dharamraj82)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharamraj82&layout=compact&bg_color=1A1A1A&text_color=FFFFFF&title_color=D4AF37&border_color=2A2A2A)
 
 </div>
 
 ---
 
+## Education
+
+**Master of Computer Applications (MCA)**
+Galgotias University, Greater Noida | *Expected 2027*
+
+**Bachelor of Computer Applications (BCA)**
+MCC Hazaribagh, Vinoba Bhave University | *Completed 2025*
+
+---
+
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+[![Email](https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:dharamrajyadav82@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dharamraj82&color=blueviolet&style=for-the-badge)
+*“Simplicity is the ultimate sophistication.”*
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dharamraj82&color=1A1A1A&style=for-the-badge)
 
 </div>
