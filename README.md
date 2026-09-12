@@ -18,12 +18,12 @@
       <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;
-    <a href="https://www.linkedin.com" target="_blank">
+    <a href="https://www.linkedin.com/in/dharamraj-prasad-yadav/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="mailto:dpy9572@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:dpy9572@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="dpy9572@gmail.com" />
     </a>
   </p>
 
